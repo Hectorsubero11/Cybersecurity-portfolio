@@ -1,6 +1,5 @@
 # Cybersecurity-portfolio
 Portafolio de ciberseguridad con análisis, scripts y laboratorios técnicos.
-# Portafolio de Ciberseguridad
 
 # Portafolio de Ciberseguridad
 
