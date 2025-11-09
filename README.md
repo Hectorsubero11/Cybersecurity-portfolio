@@ -2,23 +2,25 @@
 Portafolio de ciberseguridad con análisis, scripts y laboratorios técnicos.
 # Portafolio de Ciberseguridad
 
-Bienvenido a mi portafolio de ciberseguridad. Este repositorio documenta mis proyectos, laboratorios y prácticas relacionadas con Blue Team, SOC y defensa de redes. Cada proyecto incluye pasos detallados, configuraciones, evidencia visual y reflexiones, mostrando mi aprendizaje en ciberseguridad práctica.
+# Portafolio de Ciberseguridad
+
+Bienvenido a mi portafolio de ciberseguridad. Este repositorio documenta mis proyectos, laboratorios y prácticas relacionadas con Blue Team, SOC y defensa de redes. Cada proyecto incluye instrucciones, configuraciones, evidencia visual y reflexiones, mostrando mi aprendizaje en ciberseguridad práctica.
 
 ---
 
 ## 🔹 Objetivo del portafolio
 
-El objetivo de este portafolio es demostrar mis habilidades técnicas en ciberseguridad, documentar laboratorios prácticos y crear un repositorio reproducible para estudiar, practicar y mostrar resultados a reclutadores o académicos.
+El objetivo de este portafolio es mostrar mis habilidades técnicas en ciberseguridad y crear un repositorio reproducible para estudiar, practicar y compartir mis laboratorios y scripts con otros interesados en la materia.
 
 ---
 
 ## 🔹 Proyectos y laboratorios actuales
 
 | Proyecto / Laboratorio | Descripción breve | Estado |
-|------------------------|-----------------|--------|
-| **Laboratorio VirtualBox + Firewall UFW** | Configuración de laboratorio virtual, instalación de Ubuntu Server, creación de red interna, firewall básico con UFW, pruebas de conectividad y evidencias documentadas. | Completo |
-| **Reconocimiento de Red / Nmap** | Escaneo de red, descubrimiento de hosts y servicios, análisis de resultados y documentación. | En progreso |
-| **SIEM con ELK/Wazuh** | Configuración de SIEM para monitoreo de logs de seguridad y detección de eventos sospechosos. | Planeado |
+|------------------------|---------------8--|--------|
+| **Laboratorio VirtualBox + Firewall UFW** | Creación de un laboratorio virtual con Ubuntu Server y firewall UFW, pruebas de conectividad y documentación paso a paso. | Completo |
+| **Escaneo de Red con Nmap** | Descubrimiento de hosts y servicios en la red local, análisis de resultados y documentación. | En progreso |
+| **SIEM con ELK/Wazuh** | Configuración de un sistema SIEM para monitoreo de logs y detección de eventos de seguridad. | Planeado |
 
 > Cada proyecto tiene su propia carpeta con archivos de configuración, documentación y evidencia.
 
@@ -34,7 +36,12 @@ El objetivo de este portafolio es demostrar mis habilidades técnicas en ciberse
 
 ---
 
-## 🔹 Cómo reproducir los laboratorios
+## 🔹 Cómo explorar el portafolio
 
-Cada laboratorio se organiza en su propia carpeta:
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/Hectorsubero11/Cybersecurity-portfolio.git
+cd Cybersecurity-portfolio
+
 
