@@ -20,9 +20,7 @@ El objetivo de este portafolio es mostrar mis habilidades técnicas en cibersegu
 | Proyecto / Laboratorio | Descripción breve | Estado |
 |------------------------|-----------------|--------|
 | **Laboratorio VirtualBox + Firewall UFW** | Creación de un laboratorio virtual con Ubuntu Server y firewall UFW, pruebas de conectividad y documentación paso a paso. | Completo |
-
 | **Escaneo de Red con Nmap** | Descubrimiento de hosts y servicios en la red local, análisis de resultados y documentación. | En progreso |
-
 | **SIEM con ELK/Wazuh** | Configuración de un sistema SIEM para monitoreo de logs y detección de eventos de seguridad. | Planeado |
 
 > Cada proyecto tiene su propia carpeta con archivos de configuración, documentación y evidencia.
